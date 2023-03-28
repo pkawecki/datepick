@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "6.0.3",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "dayjs": "1.11.7",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/material-ui/blob/v5.11.14/docs/data/material/components/selects/BasicSelect.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "name": "smfigx",
+  "version": "0.0.0"
+}
